@@ -1,0 +1,12 @@
+requests
+duckduckgo_search
+Pillow
+textwrap
+llama_index
+llama-index-llms-groq
+streamlit
+nest_asyncio
+httpx
+moviepy
+gTTS
+instagrapi
