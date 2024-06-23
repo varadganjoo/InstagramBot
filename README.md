@@ -54,5 +54,9 @@ This project is an Instagram bot that fetches the latest news, rewrites the titl
 Run the main script to start the bot:
 ```sh
 python main.py
+```
 
+## Implementation
+
+You can see the implementation of this on the Instagram account: @aitechnews1
 
